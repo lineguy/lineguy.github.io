@@ -2,11 +2,10 @@
 title: Acomedation
 ---
 
-# header 1
-## header 2
-### header 3
-#### header 4
+#### Hotel A
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hotel A blah blah blah...
 
+#### Hotel B
 
+Hotel B blah blah blah...
